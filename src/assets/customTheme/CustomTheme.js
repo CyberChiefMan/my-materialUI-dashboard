@@ -18,6 +18,6 @@ const CustomTheme = createMuiTheme({
     fontFamily:'Yekan',
     fontSize:'15'
   },
- 
+
   });
 export default   CustomTheme;
