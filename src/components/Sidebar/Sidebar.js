@@ -6,7 +6,6 @@ import {
   jssPreset,
   ThemeProvider
   } from "@material-ui/core/styles";
-  //import {ThemeProvider} from "@material-ui/core/styles"
 import CustomTheme from "../../assets/customTheme/CustomTheme";
 import clsx from 'clsx';
 import { makeStyles, useTheme } from '@material-ui/core/styles';
@@ -177,7 +176,7 @@ export default function Sidebar() {
         فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و
          زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.
         </Typography>
-        <Typography h1>
+        <Typography paragraph>
         لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، 
         و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، 
         و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد

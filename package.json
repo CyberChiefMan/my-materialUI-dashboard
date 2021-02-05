@@ -1,5 +1,5 @@
 {
-  "name": "helloworld",
+  "name": "my_reactjs_dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,6 +8,7 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
+    "axios": "^0.21.1",
     "jss-rtl": "^0.3.0",
     "material-ui": "^0.20.2",
     "react": "^17.0.1",
