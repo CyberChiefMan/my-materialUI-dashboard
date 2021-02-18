@@ -3,7 +3,7 @@ import {createMuiTheme} from '@material-ui/core/styles'
 const CustomTheme = createMuiTheme({
   direction: 'rtl',
   typography:{
-    fontFamily:'Yekan',
+    fontFamily:'IRANSans',
     fontSize:'16'
   },
   h1:{
@@ -15,7 +15,7 @@ const CustomTheme = createMuiTheme({
     fontSize:'16'
   },
   h3:{
-    fontFamily:'Yekan',
+    fontFamily:'IRANSans',
     fontSize:'15'
   },
  
